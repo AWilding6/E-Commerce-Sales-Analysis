@@ -34,16 +34,16 @@ Junk stock codes were identified through exploratory analysis using a regex quer
 ## Analysis
 
 ### 1. Monthly Revenue Trend
-Revenue was relatively flat from January through August (~$500K–$650K/month), then accelerated sharply through the holiday season, peaking at **$1.16M in November 2010**. The December 2010 figure of $309K reflects a partial month — data cuts off on December 9th and does not represent a true decline.
+Revenue was relatively flat from January through August (~$500K–$650K/month), then accelerated sharply through the holiday season, peaking at **$1.16M in November 2010**. The December 2010 figure of $309K reflects a partial month since data cuts off on December 9th and does not represent a true decline.
 
 ### 2. Top 10 Customers by Revenue
-Customer `18102` was the highest-value customer with **$349,164 in total spend** across 89 orders, averaging $3,923 per order — consistent with a wholesale buyer rather than a retail consumer. The top 10 customers collectively account for a disproportionate share of total revenue, highlighting the importance of wholesale relationship management.
+Customer `18102` was the highest-value customer with **$349,164 in total spend** across 89 orders, averaging $3,923 per order which is consistent with a wholesale buyer rather than a retail consumer. The top 10 customers collectively account for a disproportionate share of total revenue, highlighting the importance of wholesale relationship management.
 
 ### 3. Customer Retention by Cohort
 Cohort analysis tracks how many customers from each signup month returned to purchase in subsequent months.
 
 Key findings:
-- The **December 2009 cohort** (952 customers) retained approximately 35–42% of customers each month throughout the year — strong retention for e-commerce
+- The **December 2009 cohort** (952 customers) retained approximately 35–42% of customers each month throughout the year. A strong retention for e-commerce
 - Most cohorts show a sharp drop after month 1 (typically ~20–25% retention), which is a normal pattern in retail
 - Retention consistently improves in October and November across all cohorts, driven by holiday purchasing behavior
 
